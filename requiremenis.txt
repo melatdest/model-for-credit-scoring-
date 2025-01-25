@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+scipy
+seaborn
+joblib
+gdown
+xverse
+sidetable
+scorecardpy
+monotonic-binning
+gunicorn
